@@ -6,3 +6,5 @@ Lego project of the TARS figurine from Interstellar movie.
 * My Blog: http://blog.mottet.tk
 
 ![Home of nexus-rundeck-plugin](TARS 3D.jpg)
+![Home of nexus-rundeck-plugin](Photos/TARS03.jpg)
+![Home of nexus-rundeck-plugin](Photos/TARS08.jpg)
